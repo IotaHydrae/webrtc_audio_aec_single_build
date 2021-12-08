@@ -1,7 +1,0 @@
-{
-    "files.associations": {
-        "aecm_core.h": "c",
-        "signal_processing_library.h": "c",
-        "compile_assert_c.h": "c"
-    }
-}
